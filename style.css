@@ -1,0 +1,117 @@
+* {
+    font-family: "Inter", sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:rgba(30, 30, 30, 1) ;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image:url(images/header.png) ;
+    height: 700px;
+} 
+
+.header-logo { 
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-menu a {
+    color: #fff;
+    padding: 10px;
+    justify-content: center;
+   
+}
+
+.header2 {
+    background-image:url(images/header2.png) ;
+    height: 700px;
+} 
+
+.header2-annotation a {
+    display: inline-block;
+    padding: 20px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header2-annotation a {
+    color: #fff;
+    padding: 10px;
+    justify-content: center;
+}
+
+.welcome {
+    background-image:url(images/welcome1.png) ;
+    height: 1000px;
+} 
+
+.text {
+    color: #fff;
+    font-size: 65px;
+    text-align: left;
+    padding: 300px 0px 0px 0px;
+}
+.text1 {
+    color: #fff;
+    font-size: 40px;
+    padding: 50px 0px 0px 0px;
+    text-align: right;
+}
+.penguin{
+    padding: 20px 20px 20px 20px;
+}
+.assortment {
+    background-image:url(images/body.png) ;
+    height: 4130px;
+    background-repeat: no-repeat;
+}
+
+.merch {
+    background-image:url(images/body2.png) ;
+    height: 1037px;
+}
+.merch-photo{
+    display: flex;
+    justify-content:center;
+    margin: 200px 0px 0px 0px
+}
+
+.contacts {
+    background-image:url(images/Vector4.png) ;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.text2 {
+    color: #fff;
+    font-size: 40px;
+    text-align:left;
+    margin: 20px 0px 0px 0px
+}
+.text3 {
+    color: #adadad;
+    font-size: 35px;
+    text-align:left;
+    margin: 30px 0px 0px 0px
+}
+
+* h1 {
+    color: #fff;
+    margin: 50px 0px 0px 0px;
+}
